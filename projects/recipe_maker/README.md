@@ -16,3 +16,7 @@ I wanted the font to look like a typewriter, not just in style, but in wear, to 
 > The main problem is that an analog typewriter is incapable of producing the same output every time.
 
 [Source Article and Font](https://copypaste.wtf/TT2020/docs/moreinfo.html)
+
+## Example Output
+
+[GF Monster Cookie Bar recipe cards](https://evanvin.github.io/static/projects/recipe_maker/GFMonsterCookieBars.pdf)
