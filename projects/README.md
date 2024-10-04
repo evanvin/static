@@ -7,58 +7,8 @@ Use the following template inside new project folders to redirect to your projec
   <meta http-equiv="refresh" content="3; url=https://link-to-your-project.com" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="../styles.css">
   <title>Redirecting...</title>
-  
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      color: #333;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      text-align: center;
-    }
-    
-    .redirect-container {
-      background-color: #fff;
-      padding: 40px;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
-    h1 {
-      font-size: 2em;
-      margin-bottom: 20px;
-    }
-
-    p {
-      font-size: 1.2em;
-      margin-bottom: 30px;
-    }
-
-    .gif-container {
-      margin-bottom: 20px;
-    }
-
-    .gif-container img {
-      width: 150px;
-      height: 150px;
-    }
-
-    a {
-      text-decoration: none;
-      color: #007bff;
-      font-weight: bold;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
   <div class="redirect-container">
